@@ -1,11 +1,6 @@
-<a href = 'www.rishikeshyadav.me'>Blog</a> <br>| LinkedIn | Resume
+<a href = 'https://rishikeshyadav.me/'>Blog</a>| <a href = 'https://www.linkedin.com/in/rishikesh-yadav-75846420b/'> LinkedIn </a> | <a href = 'https://docs.google.com/document/d/1mfdScMlu2IWVU3XLqmeEY6xTPXxdbjam/edit?usp=sharing&ouid=114659337086418062212&rtpof=true&sd=true'>Resume</a>
+<br>
+My name is Rishikesh, and I am a rising Junior at Caldwell for a Bachelor of Science (BS) in Computer Science. I’m broadly interested in various fields of Computer Science including Data Science, Machine Learning, and Blockchain. I’m most passionate about the use of technologies to create an impact and improve society. I like to spend my free time reading and listening to podcasts, with some of my favorite topics being economics and spirituality.
 
-Hi! I'm Aryan, a junior CS student at Cornell University.
-
-I enjoy building web applications on all levels of the tech stack. I am very passionate about systems programming and cloud computing, and also occasionally dabble in machine learning.
-
-On my Github, you can find some of my notable projects - two that I am particularly proud of are Distributed Database and Minimal Browser.
-
-Do visit my blog if you are interested in these projects - I explore them and other interesting topics related to Systems Programming, Backend Web Development and Cloud Computing.
-
-You can email me at yadavaryan424@gmail.com or ay394@cornell.edu.
+<br>
+If you’d like to connect, please reach out to <b>rishikeshadh4 at gmail dot com.</b>
