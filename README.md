@@ -1,4 +1,4 @@
-<a href = ''https://rishikeshyadav.me/>Blog</a> | LinkedIn | Resume
+<a href = 'www.rishikeshyadav.me'>Blog</a> <br>| LinkedIn | Resume
 
 Hi! I'm Aryan, a junior CS student at Cornell University.
 
