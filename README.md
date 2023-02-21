@@ -3,4 +3,4 @@
 <br>
 My name is Rishikesh, and I am a rising Junior at Caldwell for a Bachelor of Science (BS) in Computer Science. I’m broadly interested in various fields of Computer Science including Data Science, Machine Learning, and Blockchain. I’m most passionate about the use of technologies to create an impact and improve society. I like to spend my free time reading and listening to podcasts, with some of my favorite topics being economics and spirituality.
 
-If you’d like to connect, please reach out to <b>rishikeshadh4 at gmail dot com.</b>
+If you’d like to connect, please reach out to <b><a>rishikeshadh4 at gmail dot com.</a></b>
